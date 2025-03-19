@@ -75,4 +75,3 @@ output = '''
 - a [link with a title](https://example.com "my title")
 - a [link with a title that contains double-quotes](https://example.com 'my "alleged" title')
 '''
-
